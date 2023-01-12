@@ -17,7 +17,3 @@ O retorno da aplicação node.js para o nginx deverá ser:
 ```
 
 Gere o docker-compose de uma forma que basta apenas rodarmos: docker-compose up -d que tudo deverá estar funcionando e disponível na porta: 8080.
-
-### Entrega
-
-<https://hub.docker.com/repository/docker/matheusgrigoletto/fullcycle-desafio-node>
